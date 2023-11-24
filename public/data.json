@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/3vCD4S0/bf69b0786c15caeae95edc74821add1d.jpg",
+        "title": "Clean water for children",
+        "category" : "Health",
+        "category_bg": "#0052FF33",
+        "card_bg": "#0052FF26",
+        "text_and_btn_bg": "#0052FF",
+        "description": "Join us in ensuring a brighter future for children by supporting our Clean Water for Children initiative. In many parts of the world, children lack access to clean water, leading to preventable health issues. Your contribution aids in implementing crucial water infrastructure projects, fostering healthier lives and empowering communities. Help us make a lasting impact – donate today and be a part of the solution, transforming lives one drop at a time.",
+        "price": 250
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/Bf4CkWV/bb78eb35b1d83676bfeb091b0af13288.jpg",
+        "title": "Good education",
+        "category" : "Education",
+        "category_bg": "#FF444A33",
+        "card_bg": "#FF444A26",
+        "text_and_btn_bg": "#FF444A",
+        "description": "Discover the power of education transformation with our initiative focused on providing quality education for all. We believe that every child deserves access to a good education, regardless of their background or circumstances. Your support enables us to implement impactful education projects, from building schools to providing learning resources and teacher training. Join us in making a difference in the lives of children, empowering them with the tools they need for a brighter future. Donate today and be a catalyst for positive change, ensuring that every child has the opportunity to learn and thrive.",
+        "price": 250
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/NpznCG0/fb4761ab794b7c6a3bbe47db5aada389.jpg",
+        "title": "Used Clothing Drive",
+        "category" : "Clothing",
+        "category_bg": "#79C23F33",
+        "card_bg": "#79C23F26",
+        "text_and_btn_bg": "#79C23F",
+        "description": "Embrace the spirit of giving by participating in our Used Clothing Drive. Your gently worn clothing items can make a significant impact on those in need. By donating, you contribute to providing warmth, dignity, and comfort to individuals facing challenging circumstances. From cozy sweaters to essential everyday wear, your generosity helps us distribute these items to communities and individuals who could benefit the most. Join us in creating a ripple of goodwill – donate your used clothing today and be a part of making a positive change in the lives of others. Your contribution goes beyond fabric; it becomes a symbol of care and solidarity.",
+        "price": 250
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/1JyF79b/a5a6654d792205c42250767f04885dec.jpg",
+        "title": "Better Food for Everyone",
+        "category" : "Food",
+        "category_bg": "#F8714733",
+        "card_bg": "#F8714726",
+        "text_and_btn_bg": "#F87147",
+        "description": "Elevate the standard of living for everyone by supporting our Better Food for Everyone initiative. We believe that access to nourishing and quality food is a fundamental right. Your contribution enables us to implement sustainable projects aimed at improving food security, promoting nutrition education, and supporting local agriculture. Whether it's community gardens, nutritional workshops, or initiatives to reduce food waste, your support helps create a healthier and more resilient society. Join us in cultivating positive change – donate today and be a part of ensuring that everyone has access to better, more nutritious food, fostering well-being for all.",
+        "price": 250
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/1JyF79b/a5a6654d792205c42250767f04885dec.jpg",
+        "title": "Better Food for Everyone",
+        "category" : "Food",
+        "category_bg": "#F8714733",
+        "card_bg": "#F8714726",
+        "text_and_btn_bg": "#F87147",
+        "description": "Elevate the standard of living for everyone by supporting our Better Food for Everyone initiative. We believe that access to nourishing and quality food is a fundamental right. Your contribution enables us to implement sustainable projects aimed at improving food security, promoting nutrition education, and supporting local agriculture. Whether it's community gardens, nutritional workshops, or initiatives to reduce food waste, your support helps create a healthier and more resilient society. Join us in cultivating positive change – donate today and be a part of ensuring that everyone has access to better, more nutritious food, fostering well-being for all.",
+        "price": 250
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/NpznCG0/fb4761ab794b7c6a3bbe47db5aada389.jpg",
+        "title": "Used Clothing Drive",
+        "category" : "Clothing",
+        "category_bg": "#79C23F33",
+        "card_bg": "#79C23F26",
+        "text_and_btn_bg": "#79C23F",
+        "description": "Embrace the spirit of giving by participating in our Used Clothing Drive. Your gently worn clothing items can make a significant impact on those in need. By donating, you contribute to providing warmth, dignity, and comfort to individuals facing challenging circumstances. From cozy sweaters to essential everyday wear, your generosity helps us distribute these items to communities and individuals who could benefit the most. Join us in creating a ripple of goodwill – donate your used clothing today and be a part of making a positive change in the lives of others. Your contribution goes beyond fabric; it becomes a symbol of care and solidarity.",
+        "price": 250
+    },
+    {
+        "id": 7,
+        "picture": "https://i.ibb.co/Bf4CkWV/bb78eb35b1d83676bfeb091b0af13288.jpg",
+        "title": "Good education",
+        "category" : "Education",
+        "category_bg": "#FF444A33",
+        "card_bg": "#FF444A26",
+        "text_and_btn_bg": "#FF444A",
+        "description": "Discover the power of education transformation with our initiative focused on providing quality education for all. We believe that every child deserves access to a good education, regardless of their background or circumstances. Your support enables us to implement impactful education projects, from building schools to providing learning resources and teacher training. Join us in making a difference in the lives of children, empowering them with the tools they need for a brighter future. Donate today and be a catalyst for positive change, ensuring that every child has the opportunity to learn and thrive.",
+        "price": 250
+    },
+    {
+        "id": 8,
+        "picture": "https://i.ibb.co/3vCD4S0/bf69b0786c15caeae95edc74821add1d.jpg",
+        "title": "Clean water for children",
+        "category" : "Health",
+        "category_bg": "#0052FF33",
+        "card_bg": "#0052FF26",
+        "text_and_btn_bg": "#0052FF",
+        "description": "Join us in ensuring a brighter future for children by supporting our Clean Water for Children initiative. In many parts of the world, children lack access to clean water, leading to preventable health issues. Your contribution aids in implementing crucial water infrastructure projects, fostering healthier lives and empowering communities. Help us make a lasting impact – donate today and be a part of the solution, transforming lives one drop at a time.",
+        "price": 250
+    },
+    {
+        "id": 9,
+        "picture": "https://i.ibb.co/3vCD4S0/bf69b0786c15caeae95edc74821add1d.jpg",
+        "title": "Clean water for children",
+        "category" : "Health",
+        "category_bg": "#0052FF33",
+        "card_bg": "#0052FF26",
+        "text_and_btn_bg": "#0052FF",
+        "description": "Join us in ensuring a brighter future for children by supporting our Clean Water for Children initiative. In many parts of the world, children lack access to clean water, leading to preventable health issues. Your contribution aids in implementing crucial water infrastructure projects, fostering healthier lives and empowering communities. Help us make a lasting impact – donate today and be a part of the solution, transforming lives one drop at a time.",
+        "price": 250
+    },
+    {
+        "id": 10,
+        "picture": "https://i.ibb.co/Bf4CkWV/bb78eb35b1d83676bfeb091b0af13288.jpg",
+        "title": "Good education",
+        "category" : "Education",
+        "category_bg": "#FF444A33",
+        "card_bg": "#FF444A26",
+        "text_and_btn_bg": "#FF444A",
+        "description": "Discover the power of education transformation with our initiative focused on providing quality education for all. We believe that every child deserves access to a good education, regardless of their background or circumstances. Your support enables us to implement impactful education projects, from building schools to providing learning resources and teacher training. Join us in making a difference in the lives of children, empowering them with the tools they need for a brighter future. Donate today and be a catalyst for positive change, ensuring that every child has the opportunity to learn and thrive.",
+        "price": 250
+    },
+    {
+        "id": 11,
+        "picture": "https://i.ibb.co/NpznCG0/fb4761ab794b7c6a3bbe47db5aada389.jpg",
+        "title": "Used Clothing Drive",
+        "category" : "Clothing",
+        "category_bg": "#79C23F33",
+        "card_bg": "#79C23F26",
+        "text_and_btn_bg": "#79C23F",
+        "description": "Embrace the spirit of giving by participating in our Used Clothing Drive. Your gently worn clothing items can make a significant impact on those in need. By donating, you contribute to providing warmth, dignity, and comfort to individuals facing challenging circumstances. From cozy sweaters to essential everyday wear, your generosity helps us distribute these items to communities and individuals who could benefit the most. Join us in creating a ripple of goodwill – donate your used clothing today and be a part of making a positive change in the lives of others. Your contribution goes beyond fabric; it becomes a symbol of care and solidarity.",
+        "price": 250
+    },
+    {
+        "id": 12,
+        "picture": "https://i.ibb.co/1JyF79b/a5a6654d792205c42250767f04885dec.jpg",
+        "title": "Better Food for Everyone",
+        "category" : "Food",
+        "category_bg": "#F8714733",
+        "card_bg": "#F8714726",
+        "text_and_btn_bg": "#F87147",
+        "description": "Elevate the standard of living for everyone by supporting our Better Food for Everyone initiative. We believe that access to nourishing and quality food is a fundamental right. Your contribution enables us to implement sustainable projects aimed at improving food security, promoting nutrition education, and supporting local agriculture. Whether it's community gardens, nutritional workshops, or initiatives to reduce food waste, your support helps create a healthier and more resilient society. Join us in cultivating positive change – donate today and be a part of ensuring that everyone has access to better, more nutritious food, fostering well-being for all.",
+        "price": 250
+    }
+]
